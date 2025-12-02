@@ -17,7 +17,8 @@ O e-book apresenta um conteúdo enxuto, de fácil leitura e direto ao ponto.
 Desenvolvido para quem deseja empreender com baixo investimento inicial e a partir de casa.
 O E-book conta com um resumo do que são as IAs Generativas, sua aplicação, relação de 5 áreas para empreender, check list e passo-a-passo.
 
-[LINK PARA O E-BOOK AQUI](ebook\Guia Prático Empreenda com IA em 5 Passos.pdf)
+([LINK PARA O E-BOOK AQUI](https://github.com/joicepinheli/lab-natty-or-not/blob/main/Guia%20Pr%C3%A1tico%20Empreenda%20com%20IA%20em%205%20Passos.pdf))
 
 ## 💭 Reflexão
+
 Criar este e-book foi uma experiência incrível sobre como o potencial criativo humano pode ser expandido através das do uso colaborativo das IAs Generativas e como este poder criativo pode ser multiplicado através das suas aplicações em diferentes contextos.
